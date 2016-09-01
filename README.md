@@ -12,9 +12,11 @@ Clone or [download](https://github.com/abrahamhyatt/gcs-test/archive/master.zip)
 `$ bash path/to/gcs-test.sh`
 
 Correct answer
+
 ![GCS Self-Test correct gif](https://dl.dropboxusercontent.com/u/11828/gcs/gcs_correct.gif "GCS Self-Test correct")
 
 Incorrect answer
+
 ![GCS Self-Test incorrect gif](https://dl.dropboxusercontent.com/u/11828/gcs/gcs_incorrect.gif "GCS Self-Test incorrect")
 
 #Dependencies
