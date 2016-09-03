@@ -3,7 +3,7 @@
 
 Test your ability to quickly calculate Glasgow Coma Scale scores. For EMS/nursing/medical students.
 
-The [Glasgow Coma Scale](https://en.wikipedia.org/wiki/Glasgow_Coma_Scale) (GCS) is a neurological scale used by EMTs, paramedics, nurses and doctors to asses the conscious state of acute medical and trauma patients. The scale tests eye, verbal and motor responses. The lowest score, for coma or death, is 3; the highest, for a fully responsive patient, is 15.
+The [Glasgow Coma Scale](https://en.wikipedia.org/wiki/Glasgow_Coma_Scale) (GCS) is used by EMTs, paramedics, nurses and doctors to asses the conscious state of acute medical and trauma patients. The scale tests visual, verbal and motor responses. The lowest score, for coma or death, is 3; the highest, for a fully responsive patient, is 15.
 
 ##Usage
 
