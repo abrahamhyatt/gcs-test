@@ -5,7 +5,7 @@ Test your ability to quickly calculate Glasgow Coma Scale scores. For EMS/nursin
 
 The [Glasgow Coma Scale](https://en.wikipedia.org/wiki/Glasgow_Coma_Scale) (GCS) is used by EMTs, paramedics, nurses and doctors to quantify level of consciousness in acute trauma and non-trauma patients. The scale tests eye, verbal and motor responses. The lowest score, for coma or death, is 3; the highest, for a fully responsive patient, is 15.
 
-Because GCS Self-Test is randomized, some test scenarios may be implausible.
+Because the GCS Self-Test is randomized, some test scenarios may be implausible.
 
 ##Usage
 
@@ -38,3 +38,4 @@ And then:
 Restart Terminal/iTerm and run GCS Self-Test.
 
 Tested on OS X. Last updated 9/1/16.
+
