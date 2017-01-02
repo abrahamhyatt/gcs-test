@@ -15,11 +15,11 @@ Clone or [download](https://github.com/abrahamhyatt/gcs-test/archive/master.zip)
 
 Correct answer
 
-![GCS Self-Test correct gif](https://www.dropbox.com/s/pisc6hn1yb04574/gcs_correct.gif "GCS Self-Test correct")
+![GCS Self-Test correct gif](http://abrahamhyatt.com/public/img/gcs-test-img/gcs_correct.gif "GCS Self-Test correct")
 
 Incorrect answer
 
-![GCS Self-Test incorrect gif](https://www.dropbox.com/s/ns6mm5uf039488l/gcs_incorrect.gif "GCS Self-Test incorrect")
+![GCS Self-Test incorrect gif](http://abrahamhyatt.com/public/img/gcs-test-img/gcs_incorrect.gif "GCS Self-Test incorrect")
 
 ##Dependencies
 
