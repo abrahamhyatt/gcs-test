@@ -12,6 +12,7 @@ Because the GCS Self-Test is randomized, some test scenarios may be implausible.
 Clone or [download](https://github.com/abrahamhyatt/gcs-test/archive/master.zip) this repository. Navigate to the gcs-test directory and invoke the script:
 
 `$ cd path/to/gcs-test`
+
 `$ bash path/to/gcs-test.sh`
 
 Example correct answer:
