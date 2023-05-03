@@ -17,11 +17,11 @@ Clone or [download](https://github.com/abrahamhyatt/gcs-test/archive/master.zip)
 
 Example correct answer:
 
-![GCS Self-Test correct gif](http://abrahamhyatt.com/public/img/gcs-test-img/gcs_correct.gif "GCS Self-Test correct")
+![GCS Self-Test correct gif](http://abrahamhyatt.com/assets/img/gcs-test-img/gcs_correct.gif "GCS Self-Test correct")
 
 Example incorrect answer:
 
-![GCS Self-Test incorrect gif](http://abrahamhyatt.com/public/img/gcs-test-img/gcs_incorrect.gif "GCS Self-Test incorrect")
+![GCS Self-Test incorrect gif](http://abrahamhyatt.com/assets/img/gcs-test-img/gcs_incorrect.gif "GCS Self-Test incorrect")
 
 ## Dependencies
 
